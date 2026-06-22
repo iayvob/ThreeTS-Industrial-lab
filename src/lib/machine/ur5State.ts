@@ -177,7 +177,7 @@ export class UR5State {
     // Create a sturdy industrial base platform
     // All dimensions are in METERS (matching robot STLs)
     // Will be scaled by 1000x in ThreeScene to match CNC millimeter units
-    const PLATFORM_HEIGHT = 1.1; // 1200mm in meters = 1.2m (will become 1200mm after 1000x scale)
+    const PLATFORM_HEIGHT = 1.15; // 1200mm in meters = 1.2m (will become 1200mm after 1000x scale)
 
     // Main vertical column/cylinder - tapered for industrial look
     const columnGeometry = new THREE.CylinderGeometry(0.05, 0.10, PLATFORM_HEIGHT, 32);
