@@ -1,0 +1,462 @@
+@import 'tailwindcss';
+
+:root {
+  --bg-color: #0f1115;
+  --panel-bg: rgba(22, 25, 33, 0.7);
+  --panel-border: rgba(255, 255, 255, 0.05);
+  --text-main: #f0f4f8;
+  --text-muted: #8b92a5;
+  --accent-primary: #00e5ff;
+  --accent-glow: rgba(0, 229, 255, 0.3);
+  --accent-green: #00d26a;
+  --accent-red: #f43f5e;
+
+  /* Industrial HMI design tokens (light machine-tool controller) */
+  --font-sans: var(--font-plex-sans), var(--font-inter), system-ui, sans-serif;
+  --font-mono:
+    var(--font-plex-mono), ui-monospace, SFMono-Regular, Menlo, Consolas,
+    monospace;
+
+  --steel-0: #ffffff;
+  --steel-50: #fbfbfc;
+  --steel-100: #f4f5f7;
+  --steel-200: #e7e9ee;
+  --steel-300: #d3d7df;
+  --steel-400: #9aa0ac;
+  --steel-500: #6b7280;
+  --steel-600: #4b5563;
+  --steel-700: #374151;
+  --steel-800: #1f2937;
+  --steel-900: #111827;
+
+  --signal-red: #d92d20;
+  --signal-amber: #b54708;
+  --signal-green: #067647;
+  --signal-blue: #004eeb;
+
+  --hmi-radius: 2px;
+
+  --background: var(--steel-100);
+  --foreground: var(--steel-900);
+  --card: var(--steel-0);
+  --card-foreground: var(--steel-900);
+  --muted: var(--steel-100);
+  --muted-foreground: var(--steel-500);
+  --border: var(--steel-200);
+  --input: var(--steel-300);
+  --ring: var(--steel-400);
+  --primary: var(--steel-900);
+  --primary-foreground: var(--steel-0);
+  --secondary: var(--steel-100);
+  --secondary-foreground: var(--steel-900);
+  --destructive: var(--signal-red);
+  --destructive-foreground: var(--steel-0);
+}
+
+@theme inline {
+  --color-background: var(--bg-color);
+  --color-foreground: var(--text-main);
+  --font-sans: var(--font-plex-sans), var(--font-inter), system-ui, sans-serif;
+
+  /* Expose HMI tokens to Tailwind utilities (bg-card, text-muted-foreground, etc.) */
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-steel-0: var(--steel-0);
+  --color-steel-50: var(--steel-50);
+  --color-steel-100: var(--steel-100);
+  --color-steel-200: var(--steel-200);
+  --color-steel-300: var(--steel-300);
+  --color-steel-400: var(--steel-400);
+  --color-steel-500: var(--steel-500);
+  --color-steel-600: var(--steel-600);
+  --color-steel-700: var(--steel-700);
+  --color-steel-800: var(--steel-800);
+  --color-steel-900: var(--steel-900);
+  --color-signal-red: var(--signal-red);
+  --color-signal-amber: var(--signal-amber);
+  --color-signal-green: var(--signal-green);
+  --color-signal-blue: var(--signal-blue);
+  --font-mono: var(--font-mono);
+  --radius-hmi: var(--hmi-radius);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  font-family: var(--font-sans);
+  overflow: hidden;
+}
+
+/* Glassmorphism panel */
+.panel {
+  background: var(--panel-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--panel-border);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+}
+
+.panel-light {
+  --panel-bg: #ffffff;
+  --panel-border: rgba(15, 23, 42, 0.12);
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.08);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.panel-light .status-val {
+  background: rgba(15, 23, 42, 0.08);
+}
+
+.panel-light .led {
+  background: rgba(15, 23, 42, 0.12);
+  border-color: rgba(15, 23, 42, 0.18);
+}
+
+.panel-light input[type='range'] {
+  background: rgba(15, 23, 42, 0.12);
+}
+
+.panel-light input[type='range']::-webkit-slider-thumb {
+  box-shadow: none;
+}
+
+/* Scrollbar styling for panels */
+.sidebar-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: var(--accent-primary) transparent;
+}
+
+.sidebar-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar-scroll::-webkit-scrollbar-thumb {
+  background: var(--accent-primary);
+  border-radius: 3px;
+}
+
+/* Range sliders */
+input[type='range'] {
+  -webkit-appearance: none;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.1);
+  height: 6px;
+  border-radius: 3px;
+  outline: none;
+  transition: all 0.3s;
+}
+
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--accent-primary);
+  cursor: pointer;
+  box-shadow: 0 0 10px var(--accent-glow);
+  transition: transform 0.1s;
+}
+
+input[type='range']::-webkit-slider-thumb:hover {
+  transform: scale(1.2);
+}
+
+.slider-orange::-webkit-slider-thumb {
+  background: #f0a020;
+  box-shadow: 0 0 10px rgba(240, 160, 32, 0.4);
+}
+
+/* Status and LED styling */
+.status-val {
+  font-family:
+    ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Monaco, Consolas,
+    'Liberation Mono', 'Courier New', monospace;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: var(--accent-primary);
+}
+
+.led {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.3s;
+}
+
+.led-on-green {
+  background: var(--accent-green);
+  box-shadow: 0 0 8px var(--accent-green);
+  border-color: var(--accent-green);
+}
+
+.led-on-yellow {
+  background: #f0a020;
+  box-shadow: 0 0 8px rgba(240, 160, 32, 0.7);
+  border-color: #f0a020;
+}
+
+.led-on-red {
+  background: var(--accent-red);
+  box-shadow: 0 0 8px rgba(244, 63, 94, 0.7);
+  border-color: var(--accent-red);
+}
+
+/* Scene labels (CSS2DRenderer) */
+.scene-label {
+  font-weight: 600;
+  padding: 4px 10px;
+  background: rgba(0, 0, 0, 0.65);
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  white-space: nowrap;
+  pointer-events: none;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+  user-select: none;
+}
+
+/* ============================================================
+   Industrial HMI control panel system
+   Precision machine-tool controller aesthetic — flat steel,
+   hairline borders, mono readouts, numbered HMI sections.
+   ============================================================ */
+
+.hmi-panel {
+  background: var(--steel-50);
+  border: 1px solid var(--steel-200);
+  border-radius: var(--hmi-radius);
+}
+
+.hmi-section {
+  padding: 0;
+  border-bottom: none;
+}
+.hmi-section + .hmi-section {
+  border-top: 1px solid var(--steel-200);
+  margin-top: 0;
+  padding-top: 16px;
+}
+
+/* Section title: index + technical label, like an instrument faceplate */
+.hmi-section-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+.hmi-index {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1;
+  padding: 4px 8px;
+  color: var(--steel-600);
+  background: var(--steel-100);
+  border: 1px solid var(--steel-200);
+  border-radius: var(--hmi-radius);
+  min-width: 28px;
+  text-align: center;
+}
+.hmi-index-active {
+  color: var(--steel-0);
+  background: var(--steel-900);
+  border-color: var(--steel-900);
+}
+
+/* Numerical readout chip */
+.hmi-readout {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 3px;
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--steel-900);
+  padding: 2px 7px;
+  background: var(--steel-0);
+  border: 1px solid var(--steel-200);
+  border-bottom-width: 2px;
+  border-radius: var(--hmi-radius);
+  min-width: 64px;
+  justify-content: flex-end;
+}
+.hmi-readout-unit {
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--steel-500);
+}
+
+/* Status pill — functional only */
+.hmi-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: var(--hmi-radius);
+  border: 1px solid transparent;
+}
+.hmi-tag-grey {
+  color: var(--steel-600);
+  background: var(--steel-100);
+  border-color: var(--steel-200);
+}
+.hmi-tag-green {
+  color: var(--signal-green);
+  background: #ecfdf3;
+  border-color: #abefc6;
+}
+.hmi-tag-amber {
+  color: var(--signal-amber);
+  background: #fffaeb;
+  border-color: #fedf89;
+}
+.hmi-tag-red {
+  color: var(--signal-red);
+  background: #fef3f2;
+  border-color: #fda29b;
+}
+
+/* Industrial status indicator dot — no glow, flat precision LED */
+.hmi-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--steel-300);
+  flex-shrink: 0;
+}
+.hmi-dot-green {
+  background: var(--signal-green);
+}
+.hmi-dot-amber {
+  background: var(--signal-amber);
+}
+.hmi-dot-red {
+  background: var(--signal-red);
+}
+
+/* Monospace micro-label rendered in steel for axis labels etc. */
+.hmi-label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--steel-500);
+}
+
+/* Precision range slider override for control panels — thin industrial track */
+.hmi-range {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 3px;
+  border-radius: 0;
+  background: var(--steel-300);
+  outline: none;
+  transition: background 0.15s;
+}
+.hmi-range:hover {
+  background: var(--steel-400);
+}
+.hmi-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 22px;
+  border-radius: var(--hmi-radius);
+  background: var(--steel-800);
+  border: 1px solid var(--steel-900);
+  cursor: ew-resize;
+  box-shadow: none;
+  transition: background 0.15s;
+}
+.hmi-range::-webkit-slider-thumb:hover {
+  background: var(--steel-900);
+}
+.hmi-range:focus-visible::-webkit-slider-thumb {
+  outline: 2px solid var(--signal-blue);
+  outline-offset: 1px;
+}
+.hmi-range::-moz-range-thumb {
+  width: 14px;
+  height: 22px;
+  border-radius: var(--hmi-radius);
+  background: var(--steel-800);
+  border: 1px solid var(--steel-900);
+  cursor: ew-resize;
+  box-shadow: none;
+}
+.hmi-range-amber::-webkit-slider-thumb {
+  background: var(--signal-amber);
+  border-color: var(--signal-amber);
+}
+.hmi-range-amber::-moz-range-thumb {
+  background: var(--signal-amber);
+  border-color: var(--signal-amber);
+}
+
+/* Industrial precision borders and shadows */
+.hmi-border-precision {
+  border: 1px solid var(--steel-200);
+  border-bottom-width: 2px;
+}
+
+.hmi-shadow-subtle {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+/* Industrial control panel container */
+.hmi-control-panel {
+  background: var(--steel-50);
+  border: 1px solid var(--steel-200);
+  border-radius: var(--hmi-radius);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+/* Status indicator with better visibility */
+.hmi-status-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  border: 1px solid var(--steel-200);
+  background: var(--steel-0);
+  border-radius: var(--hmi-radius);
+  min-height: 44px;
+}
