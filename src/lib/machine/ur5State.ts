@@ -183,7 +183,7 @@ export class UR5State {
     const columnGeometry = new THREE.CylinderGeometry(0.05, 0.10, PLATFORM_HEIGHT, 32);
     const columnMaterial = this.getMaterial(0x4a5568, 0.7, 0.3); // Industrial gray
     const column = new THREE.Mesh(columnGeometry, columnMaterial);
-    column.position.set(-0.4, -0.5, (PLATFORM_HEIGHT) / 2);
+    column.position.set(-0.55, -0.5, (PLATFORM_HEIGHT) / 2);
     column.rotation.x = Math.PI / 2;
     column.castShadow = true;
     column.receiveShadow = true;
@@ -203,7 +203,7 @@ export class UR5State {
     // Robot is mounted on top of the platform
     const zUpGroup = new THREE.Group();
     zUpGroup.rotation.set(-Math.PI / 2, 0, 0);
-    zUpGroup.position.set(-0.4, -0.5, platformHeight); // Elevate robot to sit on platform top
+    zUpGroup.position.set(-0.55, -0.5, platformHeight); // Elevate robot to sit on platform top
     zUpGroup.rotateX(Math.PI / 2); // Rotate 180° around Z to face the correct direction
     this.robotGroup.add(zUpGroup);
 
