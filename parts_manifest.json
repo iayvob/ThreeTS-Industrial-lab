@@ -1,0 +1,2870 @@
+[
+  {
+    "filename": "machine laser_single - ACABAMENTO FRONTAL SOLDADO-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - BASE SOLDADA MENOR-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - BASE SOLDADA-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - BOTÃO DE EMERGÊNCIA STECK-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - CAIXA EXTERNA TUBO LASER-1 PARTE 2 - CAIXA EXTERNA TUBO LASER-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - CAIXA EXTERNA TUBO LASER-1 PARTE I CAIXA EXTERNA TUBO LASER-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - CAIXA EXTERNA TUBO LASER-1 TAMPA LATERAL LASER-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - CHAPA SOLDADA -1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 CAMARA PRE EXAUSTAO-1.STL",
+    "color": "#606060",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 CHAPA TRASEIRA CAÇAMBA-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 CHAPEU EXAUSTOR DA COIFA-1 CANTONEIRA SOLDADO DA COIFA-1.STL",
+    "color": "#606060",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 CHAPEU EXAUSTOR DA COIFA-1 CANTONEIRA SOLDADO DA COIFA-2.STL",
+    "color": "#606060",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 CHAPEU EXAUSTOR DA COIFA-1 CANTONEIRA SOLDADO DA COIFA-3.STL",
+    "color": "#606060",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 CHAPEU EXAUSTOR DA COIFA-1 CANTONEIRA SOLDADO DA COIFA-4.STL",
+    "color": "#606060",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 CHAPEU EXAUSTOR DA COIFA-1 CHAPEU EXAUSTOR-1.STL",
+    "color": "#606060",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 DUTO EXAUSTAO -1.STL",
+    "color": "#606060",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 PARTE 1 COIFA EXAUSTOR-1.STL",
+    "color": "#606060",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 PARTE 1 COIFA EXAUSTOR_mir1-1.STL",
+    "color": "#606060",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COIFA EXAUSTOR PÓ-1 PARTE 2 COIFA EXAUSTOR-1.STL",
+    "color": "#606060",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 APOIO SUPORTE TUBO LASER -1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_1-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_1-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_1-4.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_2-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_2-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_2-4.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_3-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_3-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_3_mir1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_3_mir1-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_4-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_4-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_4_mir1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-1 10311_4_mir1-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_1-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_1-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_1-4.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_2-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_2-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_2-4.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_3-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_3-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_3_mir1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_3_mir1-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_4-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_4-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_4_mir1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 DOBRADIÇA METALICA 10311-2 10311_4_mir1-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-1 11599-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-1 11599_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-1 11599_1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-1 11599_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-1 11599_3-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-1 11599_4-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-2 11599-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-2 11599_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-2 11599_1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-2 11599_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-2 11599_3-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 FECHO  LINGUETA 11599-2 11599_4-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 PARTE 1 - COMPARTIMENTO TUBO LASER-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 PARTE 2 - COMPARTIMENTO TUBO LASER-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 PARTE 3 - COMPARTIMENTO TUBO LASER-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 PARTE 4 - COMPARTIMENTO TUBO LASER - TAMPA TRASEIRA-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 SUPORTE PRIMEIRO ESPELHO-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - COMPARTIMENTO TUBO LASER-1 TAMPA LATERAL LASER-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 ACABAMENTO FRONTAL SOLDADO-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 BARRA BASE TRILHO GUIA ESQUERDA-1.STL",
+    "color": "#A0A8B0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 BARRA BASE TRILHO GUIA-1.STL",
+    "color": "#A0A8B0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 BARRA SUPORTE CAÇAMBA-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 BARRA SUPORTE CAÇAMBA-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 BASE INTERNA FECHAMENTO-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 FRENTE GABAINETE MAIOR SODADA-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 FRENTE GABAINETE MENOR-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 PERFIL DE APOIO SOLDADO-1.STL",
+    "color": "#A0A0A0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50 - TRAVESSA INFERIOR-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50 - TRAVESSA INFERIOR-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X1140-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X1140-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X1140-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X1140-4.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X1240 -1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X1240 -2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X1240 -3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X1240 -4.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X600 PE-DIREITO-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X600 PE-DIREITO-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X600 PE-DIREITO-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO QUADRADO 50X50X600 PE-DIREITO-4.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - ESTRUTURA METALICA ES8_50x50x3-1 TUBO TRAVESSA INFERIOR BASE INTERNA 30X30-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-1 11599-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-1 11599_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-1 11599_1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-1 11599_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-1 11599_3-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-1 11599_4-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-2 11599-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-2 11599_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-2 11599_1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-2 11599_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-2 11599_3-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-2 11599_4-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-3 11599-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-3 11599_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-3 11599_1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-3 11599_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-3 11599_3-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-3 11599_4-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-4 11599-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-4 11599_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-4 11599_1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-4 11599_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-4 11599_3-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599-4 11599_4-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-1 11599_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-1 11599_1_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-1 11599_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-1 11599_3_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-1 11599_4_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-1 11599_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-2 11599_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-2 11599_1_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-2 11599_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-2 11599_3_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-2 11599_4_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO  LINGUETA 11599_mir-2 11599_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO LINGUETA 11600-1 11597-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO LINGUETA 11600-1 11597_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO LINGUETA 11600-1 11597_1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO LINGUETA 11600-1 11597_2-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO LINGUETA 11600-1 11597_3-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - FECHO LINGUETA 11600-1 11597_4-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - LATERAL INFERIOR GABINETE - ESQUERDA LISA-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 FRENTE QUADRO MESA-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 LATERAL QUADRO MESA-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 LATERAL QUADRO MESA_mir-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 TRASEIRA QUADRO MESA-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-10.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-11.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-12.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-13.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-14.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-15.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-16.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-17.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-18.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-19.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-20.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-21.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-22.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-23.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-24.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-25.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-26.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-27.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-28.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-29.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-30.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-31.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-4.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-5.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-6.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-7.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-8.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 barra_mesa 790-9.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 travessa central mesa-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 travessa central mesa-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MESA 1000X800-1 travessa central mesa-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 80mm Radial Fan-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 80mm Radial Fan_mir-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 CAIXA ELETRO-ELETRONICA-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 FECHO  LINGUETA 11599-1 11599-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 FECHO  LINGUETA 11599-1 11599_0-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 FECHO  LINGUETA 11599-1 11599_1-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 FECHO  LINGUETA 11599-1 11599_2-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 FECHO  LINGUETA 11599-1 11599_3-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 FECHO  LINGUETA 11599-1 11599_4-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 Fan guard 80mm-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 Fan guard 80mm_mir-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 PERFIL SOLDADO  440-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 PERFIL SOLDADO  440_mir-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 PERFIL SOLDADO 940-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 PERFIL SOLDADO 940-2.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONICA-1 TAMPA LATERAL INFERIOR - VENTILADOR-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__ mola pino_mir3-1 chapa dobradiça_mir3-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__ mola pino_mir4-1 chapa dobradiça_mir4-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__INFERIOR GABINETE - DIREITA ELETRONICA-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__MPA LATERAL INFERIOR - VENTILADOR_mir3-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__a mola pino_mir3-1 pino dobradiça mola-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__a mola pino_mir4-1 pino dobradiça mola-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__diça externa mola pino-1 CHAPA SOLDADA-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__diça externa mola pino-2 CHAPA SOLDADA-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__externa mola pino_mir3-1 CHAPA SOLDADA-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__externa mola pino_mir4-1 CHAPA SOLDADA-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__iça externa mola pino_mir3-1 mola pino-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__iça externa mola pino_mir4-1 mola pino-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__obradiça externa mola pino-1 mola pino-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__obradiça externa mola pino-2 mola pino-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__xterna mola pino-1 pino dobradiça mola-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__xterna mola pino-2 pino dobradiça mola-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__ça externa mola pino-1 chapa dobradiça-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - MONTAGEM LATERAL DIREITA ELETRO-ELETRONI__ça externa mola pino-2 chapa dobradiça-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PERFIL SOLDADO 170-1.STL",
+    "color": "#A0A0A0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PERFIL SOLDADO 170-2.STL",
+    "color": "#A0A0A0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PERFIL SOLDADO 170_mir-1.STL",
+    "color": "#A0A0A0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PERFIL SOLDADO 170_mir-2.STL",
+    "color": "#A0A0A0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 30x30 BASE TRILHO X-1.STL",
+    "color": "#A0A8B0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 30x30 BASE TRILHO X_mir-1.STL",
+    "color": "#A0A8B0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 40X40 reforçado-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14-1 CORPO ADS10_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14-1 CORPO ADS10_FURO 14MM-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14-1 PARAFUSO ALEM CC M4x,8x14_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14-1 PARAFUSO ALEM CC M4x,8x14_0-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14-1 ROSETA_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14-2 CORPO ADS10_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14-2 CORPO ADS10_FURO 14MM-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14-2 PARAFUSO ALEM CC M4x,8x14_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14-2 PARAFUSO ALEM CC M4x,8x14_0-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14-2 ROSETA_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14_mir-1 CORPO ADS10_0_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14_mir-1 CORPO ADS10_FURO 14MM_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14_mir-1 PARAFUSO ALEM CC M4x,8x14_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14_mir-1 PARAFUSO ALEM CC M4x,8x14_0-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 ADS10 ACLOPAMENTO FLEXIVEL 10-14_mir-1 ROSETA_0-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 BASE PATINS ESQUERDA-1 APOIO BASE PATINS ESQUERDA-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 BASE PATINS ESQUERDA-1 BASE PATINS ESQUERDA FIXA-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 BASE PATINS ESQUERDA-1 PE DIREITO PATINS ESQUERDO-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 BF12 MANCAL INFERIOR-1 BF12²Õ¦X¥ó-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 BF12 MANCAL INFERIOR-2 BF12²Õ¦X¥ó-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 BF12 MANCAL INFERIOR-3 BF12²Õ¦X¥ó-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 BK12 MANCAL SUPERIOR-1 1BK12²Õ¦X-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 BK12 MANCAL SUPERIOR-2 1BK12²Õ¦X-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 BK12 MANCAL SUPERIOR_mir-1 1BK12²Õ¦X_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 BASE FIXAÇAO PATINS-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 BASE INCLINADA-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "laser"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 BASE LENTE-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 BICO LASE-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 CHAPA FIXA ESTEIRA-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 ESPACADOR-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 M4  X 10 ALLEN-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 M4  X 10 ALLEN-2.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 PARAFUSO AJUSTE-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 PARAFUSO AJUSTE-2.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 PARAFUSO AJUSTE-3.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 PARAFUSO TUBO FIXO-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 PORCA LENTE-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 SUPORTE CASTANHA 16-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 TUBO AJUSTE-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 TUBO FIXO-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 arruela M5-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 arruela M5-2.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 arruela M5-3.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 arruela M5-4.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 arruela M6-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 arruela M6-2.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 arruela M6-3.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 din_en_iso_4762_m3x12-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 din_en_iso_4762_m3x12-2.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 din_en_iso_4762_m3x12-3.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 din_en_iso_4762_m5x40-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 din_en_iso_4762_m5x40-2.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 din_en_iso_4762_m5x40-3.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 din_en_iso_4762_m5x40-4.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 din_en_iso_4762_m6x20-1.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 din_en_iso_4762_m6x20-2.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CABEÇOTE LASER 2 POLEGADAS-1 din_en_iso_4762_m6x20-3.STL",
+    "color": "#CC2020",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CALÇO MANCAL BF 12 EIXO X-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 CALÇO MANCAL BK 12 EIXO X-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 EIXO FUSO 1605 EIXO X-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 EIXO FUSO 1620 X 1000 -1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 EIXO FUSO 1620 X 1000 -2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 FA18-37-28-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 FA18-37-28-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 MICRO 103D-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 PATINS H15FL SEM ABA-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 PATINS H15FL SEM ABA-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 PATINS H15FL SEM ABA-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 PATINS H15FL SEM ABA_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 PATINS H15FL SEM ABA_mir-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 PORTA ESTEIRA EIXO X-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 PORTA ESTEIRA EIXO X-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE BASE PATINS-1 BASE SUPORTE PATINS-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE BASE PATINS-1 PE-DIREITO BASE PATINS-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE BASE PATINS-1 SUPORTE PE-DIREITO BASE PATEINS-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESPELHO EIXO X CHAPA-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESPELHO EIXO X-1 BASE FIXA ESPELHO EIXO X - MENOR ADAPATADO-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESPELHO EIXO X-1 BASE MOVEL ESPELHO EIXO X-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESPELHO EIXO X-1 MIRA-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESPELHO EIXO X-1 PARAFUSO AJUSTE-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESPELHO EIXO X-1 PARAFUSO AJUSTE-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESPELHO EIXO X-1 PARAFUSO AJUSTE-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESPELHO EIXO X-1 PORCA ESPELHO-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESPELHO EIXO X-1 PORTA ESPELHO-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESPELHO EIXO X-1 SUPORTE LENTE-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE ESTEIRA MAIOR-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE MANCAL BF12-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE MANCAL BF12-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE MANCAL BK 12-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE MANCAL BK 12-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE MOTOR PASSO NEMA 23 EIXO Y-1 CANTONEIRA SUPORTE MOTOR -1.STL",
+    "color": "#505050",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE MOTOR PASSO NEMA 23 EIXO Y-2 CANTONEIRA SUPORTE MOTOR -1.STL",
+    "color": "#505050",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE MOTOR PASSO NEMA __ Y-1 BASE SUPORTE MOTOR NEMA 23 EIXO Y-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE MOTOR PASSO NEMA __ Y-2 BASE SUPORTE MOTOR NEMA 23 EIXO Y-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE MOTOR PASSO NEMA __Y-1 APOIO SUPORTE MOTOR NEMA 23 EIXO Y-1.STL",
+    "color": "#505050",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 SUPORTE MOTOR PASSO NEMA __Y-2 APOIO SUPORTE MOTOR NEMA 23 EIXO Y-1.STL",
+    "color": "#505050",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 TRILHO TR 15 1100mm-1.STL",
+    "color": "#A0A8B0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 TRILHO TR 15 1100mm_mir-1.STL",
+    "color": "#A0A8B0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 TRILHO TR 15 EIXO X-1.STL",
+    "color": "#A0A8B0",
+    "opacity": 1.0,
+    "group": "rail"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 din_en_iso_4762_m6x20-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 din_en_iso_4762_m6x20-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 din_en_iso_4762_m6x20-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 din_en_iso_4762_m6x20-4.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 motor_passo KTC-HT23-401-1.STL",
+    "color": "#505050",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 motor_passo KTC-HT23-401-2.STL",
+    "color": "#505050",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 motor_passo KTC-HT23-401_mir-1.STL",
+    "color": "#505050",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PORTICO ES8X-1 suporte L_motor passo NEMA 23-1.STL",
+    "color": "#505050",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PROTEÇÃO FRENTE INFERIOR-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PROTEÇÃO LATERAL SUPERIOR-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - PROTEÇÃO LATERAL SUPERIOR_ESQUERDA_02-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - RODIZIO GIRATORIO 3Pol SCHIOPPA GL 312 PE G-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - RODIZIO GIRATORIO 3Pol SCHIOPPA GL 312 PE G-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - RODIZIO GIRATORIO 3Pol SCHIOPPA GL 312 PE G_mir-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - RODIZIO GIRATORIO 3Pol SCHIOPPA GL 312 PE G_mir1-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - RuiDA_RDC6332M_Panel-1 RuiDA_RDC6332M_Panel-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - SUPORTE ESPELHO EIXO X CHAPA-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 M4  X 12 ALLEN-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 M4  X 12 ALLEN-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 M5 X 16 allen_cabeça_inox-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 M5 X 16 allen_cabeça_inox-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 PASTILHA_BORRACHA-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 PASTILHA_BORRACHA-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 PASTILHA_BORRACHA-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 PORCA SW M5-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 PORCA SW M5-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 alça superior-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 base_inferior suporte tubo laser MENOR 80-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 base_superior movel 80-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-1 roda_ajuste-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 M4  X 12 ALLEN-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 M4  X 12 ALLEN-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 M5 X 16 allen_cabeça_inox-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 M5 X 16 allen_cabeça_inox-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 PASTILHA_BORRACHA-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 PASTILHA_BORRACHA-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 PASTILHA_BORRACHA-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 PORCA SW M5-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 PORCA SW M5-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 alça superior-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 base_inferior suporte tubo laser MENOR 80-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 base_superior movel 80-1.STL",
+    "color": "#3A4048",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Suporte Tubo LASER 80mm-2 roda_ajuste-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE FRONTAL-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "door"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 CANTONEIRA SOLDADA TAMPA -1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "door_assembly"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 CANTONEIRA SOLDADA TAMPA -2.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "door_assembly"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_0-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_1-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_1-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_1-3.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_1-4.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_2-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_2-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_2-3.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_2-4.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_3-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_3-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_3_mir1-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_3_mir1-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_4-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_4-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_4_mir1-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311-1 10311_4_mir1-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_0-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_1-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_1-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_1-3.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_1-4.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_2-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_2-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_2-3.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_2-4.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_3_mir11-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_3_mir11-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_3_mir2-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_3_mir2-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_4_mir11-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_4_mir11-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_4_mir2-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_4_mir2-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_mir1-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 DOBRADIÇA METALICA 10311_mir1-1 10311_mir1-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 FRENTE PORTA BASCULANTE-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "door_assembly"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 REFORÇO PORTA BASCULANTE-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "door_assembly"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 REFORÇO PORTA BASCULANTE-2.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "door_assembly"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 REFORÇO PORTA BASCULANTE-TRASEIRO-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 SUPORTE MOLA GAS-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 SUPORTE MOLA GAS-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 TAMPO VAZADO PORTA BASCULANTE-1.STL",
+    "color": "#D5C9B4",
+    "opacity": 1.0,
+    "group": "door_assembly"
+  },
+  {
+    "filename": "machine laser_single - TAMPA BASCULANTE MONTAGEM-1 Tubular handles ETH.28-500-EP-C2_1-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA LATERAL - ACESSO MOTOR-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA LATERAL - ACESSO MOTOR_mir-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA SUPERIOR FIXA-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 ENCAIXE TUBO EXAUSTOR-1 FLANGE ENCAIXE EXAUSTOR-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 ENCAIXE TUBO EXAUSTOR-1 TUBO ENCAIXE EXAUSTOR-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599-1 11599-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599-1 11599_0-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599-1 11599_1-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599-1 11599_2-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599-1 11599_3-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599-1 11599_4-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599_mir2-1 11599_0-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599_mir2-1 11599_1_mir2-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599_mir2-1 11599_2-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599_mir2-1 11599_3_mir2-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599_mir2-1 11599_4_mir2-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 FECHO  LINGUETA 11599_mir2-1 11599_mir2-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 PERFIL SOLDADO  440-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 PERFIL SOLDADO  440_mir3-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 PERFIL SOLDADO  440_mir32-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 PERFIL SOLDADO  440_mir5-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 Rivkle M5-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 Rivkle M5-2.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 Rivkle M5-3.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 Rivkle M5-4.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 TAMPA TRASEIRA 400-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 TAMPA TRASEIRA 400_mir1-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 TAMPA TRASEIRA INFERIOR-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 dobradiça externa mola pino-1 CHAPA SOLDADA-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 dobradiça externa mola pino-1 chapa dobradiça-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 dobradiça externa mola pino-1 mola pino-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 dobradiça externa mola pino-1 pino dobradiça mola-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 dobradiça externa mola pino_mir5-1 CHAPA SOLDADA-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 dobradiça externa mola pino_mir5-1 chapa dobradiça_mir5-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 dobradiça externa mola pino_mir5-1 mola pino-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TAMPA TRASEIRA MONTAGEM-1 dobradiça externa mola pino_mir5-1 pino dobradiça mola-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - TUBO LASER 1450x80mm-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 M4  X 10 ALLEN-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 M4  X 10 ALLEN-2.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 M4  X 10 ALLEN-3.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 M4  X 10 ALLEN-4.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 M4  X 10 ALLEN-5.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 M4  X 10 ALLEN-6.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 M4  X 10 ALLEN-7.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 assento espelho-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 suporte movel-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 suporte_L-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 tampa roscada-1.STL",
+    "color": "#C8D4E0",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - Torre_Suporte Espelho-1 torre_suporte espelho-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino-1 CHAPA SOLDADA-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino-1 chapa dobradiça-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino-1 mola pino-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino-1 pino dobradiça mola-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino-2 CHAPA SOLDADA-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino-2 chapa dobradiça-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino-2 mola pino-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino-2 pino dobradiça mola-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino_mir2-1 CHAPA SOLDADA-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino_mir2-1 chapa dobradiça_mir2-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino_mir2-1 mola pino-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino_mir2-1 pino dobradiça mola-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino_mir6-1 CHAPA SOLDADA-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino_mir6-1 chapa dobradiça_mir6-1.STL",
+    "color": "#707070",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino_mir6-1 mola pino-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  },
+  {
+    "filename": "machine laser_single - dobradiça externa mola pino_mir6-1 pino dobradiça mola-1.STL",
+    "color": "#808080",
+    "opacity": 1.0,
+    "group": "static"
+  }
+]
